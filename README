@@ -1,4 +1,4 @@
-PHPStorm reports "unreacahable code" for a interface type, when the project does only contain a single implementation of the interface.
+PHPStorm reports "unreachable code" for a interface type, when the project does only contain a single implementation of the interface.
 
 see `src/Foo.php`.
 
