@@ -1,3 +1,5 @@
+[JetBrains PHPStorm bugreport](https://youtrack.jetbrains.com/issue/WI-81787/Unreachable-statement-false-positive)
+
 PHPStorm reports "unreachable code" for a interface type, when the project does only contain a single implementation of the interface.
 
 see `src/Foo.php`.
